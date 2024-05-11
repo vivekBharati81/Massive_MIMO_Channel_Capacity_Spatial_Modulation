@@ -1,2 +1,2 @@
-# Simulation and Estimation of MIMO & massive MIMO Channel, Channel Capacity and Spatial Modulation 
+# Self_project_winter_school
 Massive MIMO Receiver Design
